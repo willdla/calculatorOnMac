@@ -4,6 +4,13 @@
 
 ![alt text](docs/Images/ProgrammerMACosCalculatorScreenshot.png)
 
+## How to build and test
+
+```bash
+cd src/MacApp
+open Calculator.app
+```
+
 -----
 
 # Calculator
