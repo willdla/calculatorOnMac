@@ -1,0 +1,4 @@
+module CalcManagerLib {
+    header "CalcManagerLib.h"
+    export *
+}
